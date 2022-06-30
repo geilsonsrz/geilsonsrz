@@ -10,7 +10,7 @@ I'm a mathematics undergraduate student with a passion for solving problems and 
 - ⚠️ **Portfolio under construction**.
 
 
-### 🔧 &nbsp; Tecnologias que domino:
+### 🔧 &nbsp; I have knowledge with::
 <div>
   <img height="25" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img height="25" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
