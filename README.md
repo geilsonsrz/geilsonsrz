@@ -37,8 +37,6 @@ I'm a mathematics undergraduate student with a passion for solving problems and 
 
 <div align="center">
   <a href="https://github.com/geilsonsrz">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=geilsonsrz&show_icons=true&theme=vue&count_private=true&include_all_commits=true&title_color=03a3ff&text_color=030a3f&icon_color=03a3ff&border_color=001523"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geilsonsrz&layout=compact&include_all_commits=true&count_private=true&theme=vue&title_color=03a3ff&border_color=001523"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=geilsonsrz&show_icons=true&theme=vue&count_private=true&include_all_commits=true&title_color=03a3ff&text_color=030a3f&icon_color=03a3ff&border_color=001523"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geilsonsrz&layout=compact&include_all_commits=true&count_private=true&theme=vue&title_color=03a3ff&border_color=001523"/>
 </div>
-
-
