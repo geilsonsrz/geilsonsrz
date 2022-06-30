@@ -3,11 +3,12 @@
 I'm a mathematics undergraduate student with a passion for solving problems and creating software solutions.<br>
 
 
-- 💻 Junior FullStack Developer.
+- 💻 **Junior FrontEnd Developer**.
 - 💡 Currently, I'm developing some personal projects.
 - 📖 I'm learning TypeScript.
 - 📚 Upcoming studies: NEXT.js and AWS.
-- ⚠️ **Portfolio under construction**.
+- 📌 I'm looking to become a FullStack developer.
+- 🚨 Portfolio under construction.
 
 
 ### 🔧 &nbsp; I have knowledge with::
@@ -35,8 +36,9 @@ I'm a mathematics undergraduate student with a passion for solving problems and 
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/geilsonsrz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=geilsonsrz&show_icons=true&theme=vue&count_private=true&include_all_commits=true&title_color=03a3ff&text_color=030a3f&icon_color=03a3ff&border_color=001523"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geilsonsrz&layout=compact&include_all_commits=true&count_private=true&theme=vue&title_color=03a3ff&border_color=001523"/>
-</div>
+
+| <a href="https://github.com/geilsonsrz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=geilsonsrz&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&title_color=03a3ff&text_color=030a3f&icon_color=03a3ff&border_color=001523" alt="Geilson's github stats" /></a> | <a href="https://github.com/geilsonsrz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geilsonsrz&layout=compact&theme=vue&hide_border=true&title_color=03a3ff&text_color=030a3f&icon_color=03a3ff&border_color=001523" /></a> |
+| ------------- | ------------- |
+
+
+
