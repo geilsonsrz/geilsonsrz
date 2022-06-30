@@ -40,5 +40,18 @@ I'm a mathematics undergraduate student with a passion for solving problems and 
 | <a href="https://github.com/geilsonsrz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=geilsonsrz&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&title_color=03a3ff&text_color=030a3f&icon_color=03a3ff&border_color=001523" alt="Geilson's github stats" /></a> | <a href="https://github.com/geilsonsrz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geilsonsrz&layout=compact&theme=vue&hide_border=true&title_color=03a3ff&text_color=030a3f&icon_color=03a3ff&border_color=001523" /></a> |
 | ------------- | ------------- |
 
+<br>
+
+<div>
+  <a alt="LinkedIn" href="https://www.linkedin.com/in/geilson-a-soares-522151225/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a alt="Facebook" href="https://www.facebook.com/Geilson.Almeida/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a alt="Instagram" href="https://www.instagram.com/geilsonsrz/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
 
 
