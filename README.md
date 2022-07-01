@@ -9,7 +9,6 @@ I'm a mathematics undergraduate student with a passion for solving problems and 
 - 📌 I'm looking to become a FullStack developer.
 - 🚨 Portfolio under construction.
 
-
 ### 🔧 &nbsp; I have knowledge with::
 <div>
   <img height="25" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -35,9 +34,8 @@ I'm a mathematics undergraduate student with a passion for solving problems and 
 
 <br>
 
-
-| <a href="https://github.com/geilsonsrz/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=geilsonsrz&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&title_color=03a3ff&text_color=efeff0&icon_color=03a3ff&border_color=001523&bg_color=22272e" alt="Geilson's github stats" /></a> | <a href="https://github.com/geilsonsrz/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geilsonsrz&layout=compact&theme=vue&hide_border=true&title_color=efeff0&text_color=efeff0&icon_color=03a3ff&border_color=001523&bg_color=22272e" /></a> |
-| ------------- | ------------- |
+[![Geilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=geilsonsrz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=03a3ff&text_color=efeff0&icon_color=03a3ff&border_color=001523&bg_color=22272e)](https://github.com/geilsonsrz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geilsonsrz&langs_count=10&layout=compact&hide_border=true&title_color=efeff0&text_color=efeff0&icon_color=03a3ff&border_color=001523&bg_color=22272e)](https://github.com/geilsonsrz)
 
 <br>
 
