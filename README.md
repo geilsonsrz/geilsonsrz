@@ -37,7 +37,7 @@ I'm a mathematics undergraduate student with a passion for solving problems and 
 <br>
 
 
-| <a href="https://github.com/geilsonsrz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=geilsonsrz&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&title_color=03a3ff&text_color=030a3f&icon_color=03a3ff&border_color=001523" alt="Geilson's github stats" /></a> | <a href="https://github.com/geilsonsrz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geilsonsrz&layout=compact&theme=vue&hide_border=true&title_color=03a3ff&text_color=030a3f&icon_color=03a3ff&border_color=001523" /></a> |
+| <a href="https://github.com/geilsonsrz/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=geilsonsrz&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&title_color=03a3ff&text_color=efeff0&icon_color=03a3ff&border_color=001523&bg_color=22272e" alt="Geilson's github stats" /></a> | <a href="https://github.com/geilsonsrz/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geilsonsrz&layout=compact&theme=vue&hide_border=true&title_color=efeff0&text_color=efeff0&icon_color=03a3ff&border_color=001523&bg_color=22272e" /></a> |
 | ------------- | ------------- |
 
 <br>
