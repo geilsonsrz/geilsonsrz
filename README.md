@@ -2,7 +2,6 @@
 
 I'm a mathematics undergraduate student with a passion for solving problems and creating software solutions.<br>
 
-
 - 💻 **Junior FrontEnd Developer**.
 - 💡 Currently, I'm developing some personal projects.
 - 📖 I'm learning TypeScript.
