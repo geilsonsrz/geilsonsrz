@@ -34,8 +34,9 @@ I'm a mathematics undergraduate student with a passion for solving problems and 
 
 <br>
 
-[![Geilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=geilsonsrz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=03a3ff&text_color=efeff0&icon_color=03a3ff&border_color=001523&bg_color=22272e)](https://github.com/geilsonsrz)
+ [![Geilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=geilsonsrz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=efeff0&text_color=efeff0&icon_color=03a3ff&border_color=001523&bg_color=22272e)](https://github.com/geilsonsrz)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geilsonsrz&langs_count=10&layout=compact&hide_border=true&title_color=efeff0&text_color=efeff0&icon_color=03a3ff&border_color=001523&bg_color=22272e)](https://github.com/geilsonsrz)
+
 
 <br>
 
