@@ -7,7 +7,6 @@ I'm a mathematics undergraduate student with a passion for solving problems and 
 - 📖 I'm learning TypeScript.
 - 📚 Upcoming studies: NEXT.js and AWS.
 - 📌 I'm looking to become a FullStack developer.
-- 🚨 Portfolio under construction.
 
 ### 🔧 &nbsp; I have knowledge with:
 
