@@ -32,13 +32,7 @@ I'm a mathematics undergraduate student with a passion for solving problems and 
   <img height="25" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
-<br>
-
-[![Geilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=geilsonsrz&include_all_commits=false&show_icons=true&count_private=true&hide_border=true&title_color=efeff0&text_color=efeff0&icon_color=03a3ff&border_color=001523&bg_color=22272e)](https://github.com/geilsonsrz)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geilsonsrz&count_private=true&langs_count=8&layout=compact&hide_border=true&title_color=efeff0&text_color=efeff0&icon_color=03a3ff&border_color=001523&bg_color=22272e)](https://github.com/geilsonsrz)
-
-<br>
-
+<br><br>
 <div>
   <a alt="LinkedIn" href="https://www.linkedin.com/in/geilson-a-soares-522151225/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
