@@ -5,7 +5,7 @@ I'm a mathematics undergraduate student with a passion for solving problems and 
 - 💻 **Junior FullStack Developer**.
 - 💡 Currently, I'm developing some personal projects.
 - 📖 I'm learning TypeScript.
-- 💻 I'm looking to become a FullStack developer.
+- 🚩 I'm looking to become a FullStack developer.
 
 ### 🔧 &nbsp; I have knowledge with:
 
